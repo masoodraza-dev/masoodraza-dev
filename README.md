@@ -20,10 +20,7 @@
 ## 📊 GitHub Stats
 
 ![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masoodraza-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodraza-dev&layout=compact&theme=radical)  
 
 ---
