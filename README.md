@@ -21,8 +21,6 @@
 
 ![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical)  
 
-## 🔥 GitHub Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
