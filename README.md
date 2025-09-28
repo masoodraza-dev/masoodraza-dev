@@ -19,12 +19,12 @@
 
 ## 📊 GitHub Stats & Streak
 
-![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&cache_seconds=1800)
-
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&cache_seconds=1800" 
+       alt="Masood's GitHub stats" width="400"/>
   <img src="https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D" 
        alt="GitHub Streak" width="400"/>
-</p>
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodraza-dev&layout=compact&theme=radical&cache_seconds=1800)
 
