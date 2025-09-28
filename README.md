@@ -21,7 +21,10 @@
 
 ![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D" 
+       alt="GitHub Streak" width="400"/>
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodraza-dev&layout=compact&theme=radical&cache_seconds=1800)
 
