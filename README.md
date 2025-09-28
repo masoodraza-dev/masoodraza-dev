@@ -17,15 +17,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical)  
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodraza-dev&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoodraza-dev&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
+</p>
 
 ---
 
