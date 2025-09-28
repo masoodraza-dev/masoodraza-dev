@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="200%"/>
+  <img src="https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&hide_border=false" alt="GitHub Streak" height="200%"/>
 </p>
 
 <p align="center">
