@@ -19,14 +19,18 @@
 
 ## 📊 GitHub Stats & Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="200%"/>
-  <img src="https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&hide_border=false" alt="GitHub Streak" height="200%"/>
-</p>
+![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodraza-dev&show_icons=true&theme=radical&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoodraza-dev&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=masoodraza-dev&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodraza-dev&layout=compact&theme=radical&cache_seconds=1800)
+
+---
+
+## 📈 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=masoodraza-dev&theme=react-dark&hide_border=true)
+
+---
 
 ---
 
