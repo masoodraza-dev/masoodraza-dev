@@ -53,4 +53,4 @@
 
 ---
 
- Always learning, always coding trying one project at a time.
+ *Always learning, always coding trying one project at a time.*
